@@ -2,6 +2,9 @@
 
 This project demonstrates how to convert **speech from a microphone into text** using Python and the `speech_recognition` library.
 
+YouTube Video: https://www.youtube.com/watch?v=nx6dTcwDpPI&ab_channel=BodanLabs
+
+
 Perfect for building:
 - 🔹 Voice Notes tools
 - 🔹 Voice Commands for apps
